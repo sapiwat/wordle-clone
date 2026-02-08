@@ -16,7 +16,7 @@ By building this project, I have solidified my understanding of:
 * **Vanilla JavaScript:** Core engine for game mechanics and validation.
 
 ## 📝 Inspiration & Credits
-This project was built following the excellent tutorial by **[FreeCodeCamp / Ania Kubów]** on YouTube ([Watch here](https://www.youtube.com/watch?v=Wak7iN4JZzU)). 
+This project was built following the excellent tutorial by **[Web Dev Simplified]** on YouTube ([Watch here](https://www.youtube.com/watch?v=Wak7iN4JZzU)). 
 
 **Why I chose this project:**
 I wanted to challenge myself with a project that requires more than just static data rendering. Wordle is a perfect example of how to manage multiple states and complex conditional logic in JavaScript, which is a fundamental skill for any software developer.
@@ -25,3 +25,4 @@ I wanted to challenge myself with a project that requires more than just static 
 1. Clone the repository.
 2. Open `index.html` in your browser.
 3. Start guessing the 5-letter word!
+
